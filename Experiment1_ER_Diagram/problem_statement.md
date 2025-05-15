@@ -48,10 +48,11 @@ Design a database for patient management, appointments, medical records, and bil
 # ER Diagram Submission - Student Name
 
 ## Scenario Chosen:
-University / Hospital (choose one)
+Hospital 
 
 ## ER Diagram:
-![ER Diagram](er_diagram.png)
+![image](https://github.com/user-attachments/assets/ed37d9ad-36a3-4265-bdbb-a4ffc2d8f4b2)
+
 
 ## Entities and Attributes:
 - Entity1: Attributes
@@ -70,3 +71,4 @@ University / Hospital (choose one)
 Brief explanation of why you chose certain entities, relationships, and assumptions
 
 ## RESULT
+Thus the ER diagram was successfully verified
